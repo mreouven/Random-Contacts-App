@@ -1,0 +1,13 @@
+{
+  "name": "RandomContacts",
+  "displayName": "RandomContacts",
+  "expo": {
+    "name": "RandomContacts",
+    "slug": "RandomContacts",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "description": ""
+  }
+}
